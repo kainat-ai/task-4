@@ -250,6 +250,7 @@ input {
 #text-box::placeholder{
     color: #000;
     text-align: start;
+     padding: 10px;
 }
 
 
